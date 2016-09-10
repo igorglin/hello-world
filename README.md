@@ -1,3 +1,2 @@
-# hello-world
-Repository for the tutorial project
-my first version control after comeback
+# Matching game
+This is matching game assignment of Javascript course
